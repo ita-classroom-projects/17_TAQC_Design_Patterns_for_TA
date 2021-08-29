@@ -1,0 +1,1 @@
+# 17_TAQC_Design_Patterns_for_TA
